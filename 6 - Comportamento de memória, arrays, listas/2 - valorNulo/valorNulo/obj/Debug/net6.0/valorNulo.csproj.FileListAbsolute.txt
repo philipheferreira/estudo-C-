@@ -1,0 +1,15 @@
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\valorNulo\valorNulo\bin\Debug\net6.0\valorNulo.exe
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\valorNulo\valorNulo\bin\Debug\net6.0\valorNulo.deps.json
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\valorNulo\valorNulo\bin\Debug\net6.0\valorNulo.runtimeconfig.json
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\valorNulo\valorNulo\bin\Debug\net6.0\valorNulo.dll
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\valorNulo\valorNulo\bin\Debug\net6.0\valorNulo.pdb
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\valorNulo\valorNulo\obj\Debug\net6.0\valorNulo.csproj.AssemblyReference.cache
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\valorNulo\valorNulo\obj\Debug\net6.0\valorNulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\valorNulo\valorNulo\obj\Debug\net6.0\valorNulo.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\valorNulo\valorNulo\obj\Debug\net6.0\valorNulo.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\valorNulo\valorNulo\obj\Debug\net6.0\valorNulo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\valorNulo\valorNulo\obj\Debug\net6.0\valorNulo.dll
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\valorNulo\valorNulo\obj\Debug\net6.0\refint\valorNulo.dll
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\valorNulo\valorNulo\obj\Debug\net6.0\valorNulo.pdb
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\valorNulo\valorNulo\obj\Debug\net6.0\valorNulo.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\valorNulo\valorNulo\obj\Debug\net6.0\ref\valorNulo.dll
