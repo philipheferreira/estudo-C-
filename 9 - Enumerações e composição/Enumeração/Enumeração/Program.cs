@@ -1,7 +1,25 @@
-﻿using System;
+﻿using Enumeração.Entities;
+using Enumeração.Entities.Enums;
+using System;
 
-class Programa{ 
+namespace Enumeração{
+    class Programa{ 
     static void Main(string[] args){
 
+        Order order = new Order{
+            Id = 1080,
+            Moment = DateTime.Now,
+            Status = OrderStatus.PendingPayment
+        };
+
+        Console.WriteLine(order);
+
+        string txt = OrderStatus.PendingPayment.ToString();
+
+        OrderStatus os = Enum.Parse<OrderStatus>("Delivered");
+
+        Console.WriteLine(txt);
+        Console.WriteLine(os);
+        }
     }
 }
