@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phili\\Documents\\Programação\\backend\\C#\\Curso Udemy progração orientada a objeto\\6 - Comportamento de memória, arrays, listas\\1 - estrutura\\estrutura\\estrutura.csproj": {}
+    "C:\\Users\\phili\\Documents\\Programação\\backend\\C#\\Curso Udemy progração orientada a objeto\\10 - Heranca e polimorfismo\\Heranca\\Heranca\\Heranca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phili\\Documents\\Programação\\backend\\C#\\Curso Udemy progração orientada a objeto\\6 - Comportamento de memória, arrays, listas\\1 - estrutura\\estrutura\\estrutura.csproj": {
+    "C:\\Users\\phili\\Documents\\Programação\\backend\\C#\\Curso Udemy progração orientada a objeto\\10 - Heranca e polimorfismo\\Heranca\\Heranca\\Heranca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phili\\Documents\\Programação\\backend\\C#\\Curso Udemy progração orientada a objeto\\6 - Comportamento de memória, arrays, listas\\1 - estrutura\\estrutura\\estrutura.csproj",
-        "projectName": "estrutura",
-        "projectPath": "C:\\Users\\phili\\Documents\\Programação\\backend\\C#\\Curso Udemy progração orientada a objeto\\6 - Comportamento de memória, arrays, listas\\1 - estrutura\\estrutura\\estrutura.csproj",
+        "projectUniqueName": "C:\\Users\\phili\\Documents\\Programação\\backend\\C#\\Curso Udemy progração orientada a objeto\\10 - Heranca e polimorfismo\\Heranca\\Heranca\\Heranca.csproj",
+        "projectName": "Heranca",
+        "projectPath": "C:\\Users\\phili\\Documents\\Programação\\backend\\C#\\Curso Udemy progração orientada a objeto\\10 - Heranca e polimorfismo\\Heranca\\Heranca\\Heranca.csproj",
         "packagesPath": "C:\\Users\\phili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phili\\Documents\\Programação\\backend\\C#\\Curso Udemy progração orientada a objeto\\6 - Comportamento de memória, arrays, listas\\1 - estrutura\\estrutura\\obj\\",
+        "outputPath": "C:\\Users\\phili\\Documents\\Programação\\backend\\C#\\Curso Udemy progração orientada a objeto\\10 - Heranca e polimorfismo\\Heranca\\Heranca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

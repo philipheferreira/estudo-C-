@@ -1,0 +1,15 @@
+C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\10 - Heranca e polimorfismo\Heranca\Heranca\bin\Debug\net6.0\Heranca.exe
+C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\10 - Heranca e polimorfismo\Heranca\Heranca\bin\Debug\net6.0\Heranca.deps.json
+C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\10 - Heranca e polimorfismo\Heranca\Heranca\bin\Debug\net6.0\Heranca.runtimeconfig.json
+C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\10 - Heranca e polimorfismo\Heranca\Heranca\bin\Debug\net6.0\Heranca.dll
+C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\10 - Heranca e polimorfismo\Heranca\Heranca\bin\Debug\net6.0\Heranca.pdb
+C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\10 - Heranca e polimorfismo\Heranca\Heranca\obj\Debug\net6.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\10 - Heranca e polimorfismo\Heranca\Heranca\obj\Debug\net6.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\10 - Heranca e polimorfismo\Heranca\Heranca\obj\Debug\net6.0\Heranca.AssemblyInfo.cs
+C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\10 - Heranca e polimorfismo\Heranca\Heranca\obj\Debug\net6.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\10 - Heranca e polimorfismo\Heranca\Heranca\obj\Debug\net6.0\Heranca.sourcelink.json
+C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\10 - Heranca e polimorfismo\Heranca\Heranca\obj\Debug\net6.0\Heranca.dll
+C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\10 - Heranca e polimorfismo\Heranca\Heranca\obj\Debug\net6.0\refint\Heranca.dll
+C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\10 - Heranca e polimorfismo\Heranca\Heranca\obj\Debug\net6.0\Heranca.pdb
+C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\10 - Heranca e polimorfismo\Heranca\Heranca\obj\Debug\net6.0\Heranca.genruntimeconfig.cache
+C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\10 - Heranca e polimorfismo\Heranca\Heranca\obj\Debug\net6.0\ref\Heranca.dll

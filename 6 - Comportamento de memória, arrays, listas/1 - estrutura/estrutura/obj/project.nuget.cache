@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w5FNiKQNzqPIEOV1z1xMhPMNoUQrSEEThdOlg3zeaO+4C8RXa3JLM+Eswt5jT+yPJDW6R7bstm7FnMQS/aL1tQ==",
+  "dgSpecHash": "cDh0HH39Ya+cHcM/JQAaELftGmU5JOmoA6ggZsmJQF35dCpb75k7UlkOj8y3gBF/H9ATUApELWLHejGP5DT+BA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Documents\\estudo\\trabalho\\Backend\\estudo\\curso udemy\\6 - estrutura\\estrutura\\estrutura.csproj",
+  "projectFilePath": "C:\\Users\\phili\\Documents\\Programação\\backend\\C#\\Curso Udemy progração orientada a objeto\\6 - Comportamento de memória, arrays, listas\\1 - estrutura\\estrutura\\estrutura.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
