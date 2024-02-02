@@ -1,8 +1,13 @@
-﻿
+﻿using System;
+using Heranca.Entities;
 
-class Programa{
-    static void Main(string[] args){
+namespace Course {
+    class Programa {
+        static void Main(string[] args) {
 
-        Console.WriteLine("OI");
+            BusinessAccount account = new BusinessAccount(8010, "Philiphe Ferreira", 100.00, 500.0);
+
+            Console.WriteLine(account.Balance);
+        }
     }
 }
