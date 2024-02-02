@@ -1,9 +1,11 @@
 ﻿using System;
 using Heranca.Entities;
 
-namespace Course {
-    class Programa {
-        static void Main(string[] args) {
+namespace Heranca.Entities{
+    class Programa
+    {
+        static void Main(string[] args)
+        {
 
             BusinessAccount account = new BusinessAccount(8010, "Philiphe Ferreira", 100.00, 500.0);
 
