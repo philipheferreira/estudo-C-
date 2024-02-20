@@ -10,6 +10,8 @@ namespace Heranca.Entities{
             BusinessAccount account = new BusinessAccount(8010, "Philiphe Ferreira", 100.00, 500.0);
 
             Console.WriteLine(account.Balance);
+            Console.WriteLine(account.Holder);
+
         }
     }
 }
