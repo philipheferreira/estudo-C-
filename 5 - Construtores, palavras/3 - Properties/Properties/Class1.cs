@@ -19,7 +19,7 @@ namespace Properties{
             set { _Nome = value; }
         }
 
-        public string PalavraChave {
+        public string PalavraChave{
             get { return _PalavraChave; }
             set {
                 if (_PalavraChave != null){

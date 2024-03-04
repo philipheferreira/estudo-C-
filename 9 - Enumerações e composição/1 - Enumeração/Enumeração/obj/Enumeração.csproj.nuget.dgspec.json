@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\estudo\\trabalho\\Backend\\estudo\\curso udemy C# completo programação orientada a objetos\\9 - Enumerações e composição\\1 - Enumeração\\Enumeração\\Enumeração.csproj": {}
+    "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\9 - Enumerações e composição\\1 - Enumeração\\Enumeração\\Enumeração.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\estudo\\trabalho\\Backend\\estudo\\curso udemy C# completo programação orientada a objetos\\9 - Enumerações e composição\\1 - Enumeração\\Enumeração\\Enumeração.csproj": {
+    "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\9 - Enumerações e composição\\1 - Enumeração\\Enumeração\\Enumeração.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\estudo\\trabalho\\Backend\\estudo\\curso udemy C# completo programação orientada a objetos\\9 - Enumerações e composição\\1 - Enumeração\\Enumeração\\Enumeração.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\9 - Enumerações e composição\\1 - Enumeração\\Enumeração\\Enumeração.csproj",
         "projectName": "Enumeração",
-        "projectPath": "C:\\Users\\User\\Documents\\estudo\\trabalho\\Backend\\estudo\\curso udemy C# completo programação orientada a objetos\\9 - Enumerações e composição\\1 - Enumeração\\Enumeração\\Enumeração.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\9 - Enumerações e composição\\1 - Enumeração\\Enumeração\\Enumeração.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\estudo\\trabalho\\Backend\\estudo\\curso udemy C# completo programação orientada a objetos\\9 - Enumerações e composição\\1 - Enumeração\\Enumeração\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\9 - Enumerações e composição\\1 - Enumeração\\Enumeração\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

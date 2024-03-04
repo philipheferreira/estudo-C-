@@ -13,3 +13,18 @@ C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orient
 C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\9 - Enumerações e composição\Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.pdb
 C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\9 - Enumerações e composição\Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.genruntimeconfig.cache
 C:\Users\phili\Documents\Programação\backend\C#\Curso Udemy progração orientada a objeto\9 - Enumerações e composição\Enumeração\Enumeração\obj\Debug\net6.0\ref\Enumeração.dll
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\9 - Enumerações e composição\1 - Enumeração\Enumeração\bin\Debug\net6.0\Enumeração.exe
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\9 - Enumerações e composição\1 - Enumeração\Enumeração\bin\Debug\net6.0\Enumeração.deps.json
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\9 - Enumerações e composição\1 - Enumeração\Enumeração\bin\Debug\net6.0\Enumeração.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\9 - Enumerações e composição\1 - Enumeração\Enumeração\bin\Debug\net6.0\Enumeração.dll
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\9 - Enumerações e composição\1 - Enumeração\Enumeração\bin\Debug\net6.0\Enumeração.pdb
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\9 - Enumerações e composição\1 - Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.csproj.AssemblyReference.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\9 - Enumerações e composição\1 - Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\9 - Enumerações e composição\1 - Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\9 - Enumerações e composição\1 - Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\9 - Enumerações e composição\1 - Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\9 - Enumerações e composição\1 - Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.dll
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\9 - Enumerações e composição\1 - Enumeração\Enumeração\obj\Debug\net6.0\refint\Enumeração.dll
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\9 - Enumerações e composição\1 - Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.pdb
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\9 - Enumerações e composição\1 - Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\9 - Enumerações e composição\1 - Enumeração\Enumeração\obj\Debug\net6.0\ref\Enumeração.dll

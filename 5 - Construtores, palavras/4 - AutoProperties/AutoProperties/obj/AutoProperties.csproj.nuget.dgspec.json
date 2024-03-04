@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\estudo\\trabalho\\Backend\\estudo\\curso udemy\\5 - AutoProperties\\AutoProperties\\AutoProperties.csproj": {}
+    "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\5 - Construtores, palavras\\4 - AutoProperties\\AutoProperties\\AutoProperties.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\estudo\\trabalho\\Backend\\estudo\\curso udemy\\5 - AutoProperties\\AutoProperties\\AutoProperties.csproj": {
+    "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\5 - Construtores, palavras\\4 - AutoProperties\\AutoProperties\\AutoProperties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\estudo\\trabalho\\Backend\\estudo\\curso udemy\\5 - AutoProperties\\AutoProperties\\AutoProperties.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\5 - Construtores, palavras\\4 - AutoProperties\\AutoProperties\\AutoProperties.csproj",
         "projectName": "AutoProperties",
-        "projectPath": "C:\\Users\\User\\Documents\\estudo\\trabalho\\Backend\\estudo\\curso udemy\\5 - AutoProperties\\AutoProperties\\AutoProperties.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\5 - Construtores, palavras\\4 - AutoProperties\\AutoProperties\\AutoProperties.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\estudo\\trabalho\\Backend\\estudo\\curso udemy\\5 - AutoProperties\\AutoProperties\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\5 - Construtores, palavras\\4 - AutoProperties\\AutoProperties\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

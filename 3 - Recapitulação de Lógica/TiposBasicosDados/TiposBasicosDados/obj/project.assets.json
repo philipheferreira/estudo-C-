@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\estudo\\trabalho\\Backend\\estudo\\curso udemy C# completo programação orientada a objetos\\3 - Recapitulação de Lógica\\TiposBasicosDados\\TiposBasicosDados\\TiposBasicosDados.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\3 - Recapitulação de Lógica\\TiposBasicosDados\\TiposBasicosDados\\TiposBasicosDados.csproj",
       "projectName": "TiposBasicosDados",
-      "projectPath": "C:\\Users\\User\\Documents\\estudo\\trabalho\\Backend\\estudo\\curso udemy C# completo programação orientada a objetos\\3 - Recapitulação de Lógica\\TiposBasicosDados\\TiposBasicosDados\\TiposBasicosDados.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\3 - Recapitulação de Lógica\\TiposBasicosDados\\TiposBasicosDados\\TiposBasicosDados.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\estudo\\trabalho\\Backend\\estudo\\curso udemy C# completo programação orientada a objetos\\3 - Recapitulação de Lógica\\TiposBasicosDados\\TiposBasicosDados\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\3 - Recapitulação de Lógica\\TiposBasicosDados\\TiposBasicosDados\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
