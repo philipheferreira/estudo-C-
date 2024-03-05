@@ -1,15 +1,14 @@
 ﻿using System;
-using Heranca.Entities;
+using heranca.Entities;
 
-namespace Heranca.Entities{
-    class Programa{
-        static void Main(string[] args){
+namespace Treino{
+    class Programa{ 
+        static void Main(string[] args){ 
+            BusinessAccount account = new BusinessAccount(2020, "Philiphe", 100.0, 500.0);
 
-            BusinessAccount account = new BusinessAccount(8010, "Philiphe Ferreira", 100.00, 500.0);
+            Console.WriteLine(account);
 
-            Console.WriteLine(account.Balance);
-            Console.WriteLine(account.Holder);
-
+            account.Balanco = 400.0;
         }
     }
 }

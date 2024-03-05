@@ -1,19 +1,23 @@
-﻿
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Heranca.Entities{
-    class BusinessAccount : Account{
+
+namespace heranca.Entities{
+
+    internal class BusinessAccount : Account{ // herança
+
         public double LoanLimit { get; set; }
 
-        public BusinessAccount(){
-        }
-
-        public BusinessAccount(int number, string holder, double balance, double loanLimit) : base(number, holder, balance) {
+        public BusinessAccount(int numero, string holder, double balanco, double loanLimit) : base(numero, holder, balanco){
             LoanLimit = loanLimit;
         }
 
-        public void Loan(double amount){ 
-            if (amount <= LoanLimit){
-                Balance += amount;
+        public void Emprestimo(double valor){
+            if (valor < LoanLimit){
+                Balanco= valor;
             }
         }
 

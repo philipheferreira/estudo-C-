@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Heranca/1.0.0": {
+      "heranca/1.0.0": {
         "runtime": {
-          "Heranca.dll": {}
+          "heranca.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Heranca/1.0.0": {
+    "heranca/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
