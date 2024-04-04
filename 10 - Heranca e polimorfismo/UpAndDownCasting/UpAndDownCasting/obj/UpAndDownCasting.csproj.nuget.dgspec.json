@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\Heranca\\heranca\\heranca.csproj": {}
+    "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\UpAndDownCasting\\UpAndDownCasting\\UpAndDownCasting.csproj": {}
   },
   "projects": {
-    "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\Heranca\\heranca\\heranca.csproj": {
+    "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\UpAndDownCasting\\UpAndDownCasting\\UpAndDownCasting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\Heranca\\heranca\\heranca.csproj",
-        "projectName": "heranca",
-        "projectPath": "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\Heranca\\heranca\\heranca.csproj",
+        "projectUniqueName": "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\UpAndDownCasting\\UpAndDownCasting\\UpAndDownCasting.csproj",
+        "projectName": "UpAndDownCasting",
+        "projectPath": "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\UpAndDownCasting\\UpAndDownCasting\\UpAndDownCasting.csproj",
         "packagesPath": "C:\\Users\\phili\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\Heranca\\heranca\\obj\\",
+        "outputPath": "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\UpAndDownCasting\\UpAndDownCasting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phili\\AppData\\Roaming\\NuGet\\NuGet.Config",
