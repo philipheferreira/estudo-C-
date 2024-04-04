@@ -1,0 +1,15 @@
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\10 - Heranca e polimorfismo\updown\updown\bin\Debug\net6.0\updown.exe
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\10 - Heranca e polimorfismo\updown\updown\bin\Debug\net6.0\updown.deps.json
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\10 - Heranca e polimorfismo\updown\updown\bin\Debug\net6.0\updown.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\10 - Heranca e polimorfismo\updown\updown\bin\Debug\net6.0\updown.dll
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\10 - Heranca e polimorfismo\updown\updown\bin\Debug\net6.0\updown.pdb
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\10 - Heranca e polimorfismo\updown\updown\obj\Debug\net6.0\updown.csproj.AssemblyReference.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\10 - Heranca e polimorfismo\updown\updown\obj\Debug\net6.0\updown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\10 - Heranca e polimorfismo\updown\updown\obj\Debug\net6.0\updown.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\10 - Heranca e polimorfismo\updown\updown\obj\Debug\net6.0\updown.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\10 - Heranca e polimorfismo\updown\updown\obj\Debug\net6.0\updown.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\10 - Heranca e polimorfismo\updown\updown\obj\Debug\net6.0\updown.dll
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\10 - Heranca e polimorfismo\updown\updown\obj\Debug\net6.0\refint\updown.dll
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\10 - Heranca e polimorfismo\updown\updown\obj\Debug\net6.0\updown.pdb
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\10 - Heranca e polimorfismo\updown\updown\obj\Debug\net6.0\updown.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\10 - Heranca e polimorfismo\updown\updown\obj\Debug\net6.0\ref\updown.dll
