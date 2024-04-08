@@ -1,31 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD:10 - Heranca e polimorfismo/Heranca/Heranca/obj/Heranca.csproj.nuget.dgspec.json
-    "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\Heranca\\heranca\\heranca.csproj": {}
+    "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\heranca.csproj": {}
   },
   "projects": {
-    "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\Heranca\\heranca\\heranca.csproj": {
+    "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\heranca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\Heranca\\heranca\\heranca.csproj",
+        "projectUniqueName": "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\heranca.csproj",
         "projectName": "heranca",
-        "projectPath": "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\Heranca\\heranca\\heranca.csproj",
+        "projectPath": "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\heranca.csproj",
         "packagesPath": "C:\\Users\\phili\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\Heranca\\heranca\\obj\\",
-=======
-    "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\heranca.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\heranca.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\heranca.csproj",
-        "projectName": "heranca",
-        "projectPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\heranca.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\curso udemy C# completo programação orientada a objetos\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\obj\\",
->>>>>>> 6814d9fdb0013978841d539e3f15a737a3ad1964:10 - Heranca e polimorfismo/1 - heranca/heranca/obj/heranca.csproj.nuget.dgspec.json
+        "outputPath": "D:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phili\\AppData\\Roaming\\NuGet\\NuGet.Config",
