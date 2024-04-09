@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using updown.Entities;
 
-namespace Teste
-{
+namespace Teste{
 
-    class Programa
-    {
-        static void Main(string[] args)
-        {
+    class Programa{
+        static void Main(string[] args){
             Console.WriteLine("Treino geral");
         }
 
