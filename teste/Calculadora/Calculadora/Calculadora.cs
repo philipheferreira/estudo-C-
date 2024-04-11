@@ -8,29 +8,45 @@ namespace Classe{
     class Calculadora{
 
 
-        public double Valor1;
-        public double Valor2;
+        private double _Valor1;
+        private double _Valor2;
 
 
         public Calculadora(double valor1, double valor2){ 
-            Valor1 = valor1;
-            Valor2 = valor2;
+            _Valor1 = valor1;
+            _Valor2 = valor2;
+        }
+
+        public double GetValor1(){
+            return _Valor1;
+        }
+
+        public double GetValor2(){ 
+            return _Valor2;
+        }
+
+        public void SetValor1(double valor1){
+            _Valor1 = valor1;
+        }
+
+        public void SetValor2(double valor2){ 
+            _Valor2 = valor2;
         }
 
         public double soma(){
-            return Valor1 + Valor2;
+            return _Valor1 + _Valor2;
         }
 
         public double sub(){
-            return Valor1 - Valor2;
+            return _Valor1 - _Valor2;
         }
 
         public double mult(){
-            return Valor1 * Valor2;
+            return _Valor1 * _Valor2;
         }
 
         public double div(){
-            return Valor1 / Valor2;
+            return _Valor1 / _Valor2;
         }
 
     }

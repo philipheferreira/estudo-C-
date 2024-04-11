@@ -6,7 +6,9 @@ using System.ComponentModel.Design;
 class Programa{
 
     static void Main(string[] args){
-        FormasGeometricas obj1 = new FormasGeometricas();
+        Quadrado obj1 = new Quadrado();
+        Retangulo obj2 = new Retangulo();
+        Circulo obj3 = new Circulo();
 
         int menu;
 
@@ -21,8 +23,13 @@ class Programa{
             switch (menu){
 
                 case 1:
+
+                    double numeroQuadrado;
+
                     Console.WriteLine("Digite o lado do quadrado:");
-                    obj1.QuadradoValor1 = double.Parse(Console.ReadLine());
+                    numeroQuadrado = double.Parse(Console.ReadLine());
+
+                    obj1.setQuadradoValor1(numeroQuadrado);
 
                     Console.WriteLine("{0}", obj1.quadradoArea());
 
@@ -30,22 +37,31 @@ class Programa{
 
                 case 2:
 
+                    double numeroRetangulo1, numeroRetangulo2;
+
                     Console.WriteLine("Digite a primeira lateral do retangulo: ");
-                    obj1.RetanguloValor1 = double.Parse(Console.ReadLine());
+                    numeroRetangulo1 = double.Parse(Console.ReadLine());
 
                     Console.WriteLine("Digite a segunda lateral do retangulo: ");
-                    obj1.RetanguloValor2 = double.Parse(Console.ReadLine());
+                    numeroRetangulo2 = double.Parse(Console.ReadLine());
 
-                    Console.WriteLine("" + obj1.retanguloArea());
+                    obj2.SetRetanguloValor1(numeroRetangulo1);
+                    obj2.SetRetanguloValor2(numeroRetangulo2);
+
+                    Console.WriteLine("" + obj2.retanguloArea());
 
                 break;
 
                 case 3:
 
-                    Console.WriteLine("Digite o diametro do circulo");
-                    obj1.diametroCirculo = double.Parse(Console.ReadLine());
+                    double numeroDiametro;
 
-                    Console.WriteLine("" + obj1.circuloArea());
+                    Console.WriteLine("Digite o diametro do circulo");
+                    numeroDiametro = double.Parse(Console.ReadLine());
+
+                    obj3.SetDiametroCirculo(numeroDiametro);
+
+                    Console.WriteLine("" + obj3.circuloArea());
 
                 break;
 
