@@ -7,7 +7,7 @@ using Treino;
             
             Classe obj = new Classe();
 
-        Console.WriteLine(obj.valor);
+            Console.WriteLine(obj.valor);
             
         }
     }

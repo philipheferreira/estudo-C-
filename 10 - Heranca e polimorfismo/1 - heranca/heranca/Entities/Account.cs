@@ -4,8 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace heranca.Entities
-{
+namespace heranca.Entities{
     internal class Account{
         public int Numero { get; set; } // cria os metodos de enviar e pegar o valor da variavel
         public string Holder { get; set; } // cria os metodos de enviar e pegar o valor da variavel

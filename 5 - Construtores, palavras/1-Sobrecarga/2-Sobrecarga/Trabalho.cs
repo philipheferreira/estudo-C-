@@ -22,7 +22,7 @@ namespace teste{
             Salario = salario;
             Tempo = 10;
         }
-        public override string ToString(){
+        public override string ToString(){ // Esse comando é para quando eu chamar apenas o nome do objeto criado retornar algo dentro dessa função
             return Nome + ", $" + Salario + ". Tempo de trabalho: " + Tempo;
         }
     }

@@ -2,8 +2,6 @@
 using matematica;
 
     class Programa{
-
-    
     static void Main(string[] args){
 
         Triangulo obj1= new Triangulo();

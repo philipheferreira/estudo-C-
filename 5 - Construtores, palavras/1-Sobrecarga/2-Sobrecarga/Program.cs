@@ -21,7 +21,7 @@ using teste;
 
         Trabalho obj2 = new Trabalho(nome, salario);
 
-        Trabalho obj3 = new Trabalho(nome = "Joãozinho", salario = 3200 , tempo = 2);
+        Trabalho obj3 = new Trabalho(nome = "Joãozinho", salario = 3200 , tempo = 2); // Já inicializa com o construtor colocando valores definidos dentro do objeto
 
 
         Console.WriteLine("Infos gerais do obj1: {0}", obj1);

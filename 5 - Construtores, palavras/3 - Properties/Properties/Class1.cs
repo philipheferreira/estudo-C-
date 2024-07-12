@@ -9,7 +9,7 @@ namespace Properties{
         private string _Nome;
         private string _PalavraChave;
 
-        public Class1(string nome, string palavraChave){
+        public Class1(string nome, string palavraChave){ // O construtor recebendo as variaveis no objeto
             _Nome = nome;
             _PalavraChave= palavraChave;
         }

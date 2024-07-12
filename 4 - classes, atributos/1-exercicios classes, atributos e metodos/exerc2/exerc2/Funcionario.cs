@@ -9,7 +9,5 @@ namespace trabalho{
         public string Nome;
         public double salarioBruto;
         public double Impostos;
-
-
     }
 }
