@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sAgcTPaQmKk=",
+  "dgSpecHash": "BBW6dXmmW2py/D4weTMN8W3J4YrJ4VphQdWg/pQz63bG6G4VmSt2HkWfU3MJ4TdFwNSlt7k8zPljqyP2nzgnCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\phili\\Documents\\estudo\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\HerancaReTreino\\HerancaReTreino\\HerancaReTreino.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\phili\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\phili\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\phili\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\phili\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\HerancaReTreino\\HerancaReTreino\\HerancaReTreino.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
