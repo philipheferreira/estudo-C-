@@ -14,7 +14,7 @@ namespace _2_UpcastingDowncasting.Entities{
             LoanLimit = loanLimit;
         }
 
-        public void Emprestimo(double value){
+        public void Loan(double value){
             if (value < LoanLimit){
                 Balance = value;
             }

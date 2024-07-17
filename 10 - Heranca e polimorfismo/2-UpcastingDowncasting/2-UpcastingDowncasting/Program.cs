@@ -1,2 +1,22 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using _2_UpcastingDowncasting.Entities;
+
+namespace Treino{
+    class Programa{
+        static void Main(string[] args){
+            Account acc = new Account(1001, "João", 0.0);
+            BusinessAccount bacc = new BusinessAccount(1002, "Maria", 0.0, 500.0);
+
+            // UPCASTING
+            Account acc1 = bacc;
+            Account acc2 = new BusinessAccount(1003, "Bob", 0.0, 200.0);
+            Account acc3 = new SavingsAccount(1004,"Anna", 0.0, 0.01);
+
+            // DOWNCASTING
+
+            BusinessAccount acc4 = (BusinessAccount)acc2; // Operação de fazer um downcasting, assim permite utilizar variaveis que só são permitidas 
+            acc4.Loan(100.0);
+            //acc2.Loan(100.0);
+
+        }
+    }
+}
