@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HerancaReTreino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d8bd125be2838e5011b1f79acc87be37d54ca68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+590704f024a4607d894731c2c03e8ddcc17fdc59")]
 [assembly: System.Reflection.AssemblyProductAttribute("HerancaReTreino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HerancaReTreino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
