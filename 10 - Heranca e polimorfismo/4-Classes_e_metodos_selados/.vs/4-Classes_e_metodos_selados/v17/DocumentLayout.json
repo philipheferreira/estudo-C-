@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\4-Classes_e_metodos_selados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA23BC9E-DF7A-4C21-934E-10C58C35CB95}|4-Classes_e_metodos_selados\\4-Classes_e_metodos_selados.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\estudo-c-\\10 - heranca e polimorfismo\\4-classes_e_metodos_selados\\4-classes_e_metodos_selados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA23BC9E-DF7A-4C21-934E-10C58C35CB95}|4-Classes_e_metodos_selados\\4-Classes_e_metodos_selados.csproj|solutionrelative:4-classes_e_metodos_selados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA23BC9E-DF7A-4C21-934E-10C58C35CB95}|4-Classes_e_metodos_selados\\4-Classes_e_metodos_selados.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\estudo-c-\\10 - heranca e polimorfismo\\4-classes_e_metodos_selados\\4-classes_e_metodos_selados\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA23BC9E-DF7A-4C21-934E-10C58C35CB95}|4-Classes_e_metodos_selados\\4-Classes_e_metodos_selados.csproj|solutionrelative:4-classes_e_metodos_selados\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA23BC9E-DF7A-4C21-934E-10C58C35CB95}|4-Classes_e_metodos_selados\\4-Classes_e_metodos_selados.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\estudo-c-\\10 - heranca e polimorfismo\\4-classes_e_metodos_selados\\4-classes_e_metodos_selados\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA23BC9E-DF7A-4C21-934E-10C58C35CB95}|4-Classes_e_metodos_selados\\4-Classes_e_metodos_selados.csproj|solutionrelative:4-classes_e_metodos_selados\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA23BC9E-DF7A-4C21-934E-10C58C35CB95}|4-Classes_e_metodos_selados\\4-Classes_e_metodos_selados.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\estudo-c-\\10 - heranca e polimorfismo\\4-classes_e_metodos_selados\\4-classes_e_metodos_selados\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA23BC9E-DF7A-4C21-934E-10C58C35CB95}|4-Classes_e_metodos_selados\\4-Classes_e_metodos_selados.csproj|solutionrelative:4-classes_e_metodos_selados\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\4-Classes_e_metodos_selados\\4-Classes_e_metodos_selados\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "4-Classes_e_metodos_selados\\Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\4-Classes_e_metodos_selados\\4-Classes_e_metodos_selados\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "4-Classes_e_metodos_selados\\Entities\\SavingsAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:51:22.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\4-Classes_e_metodos_selados\\4-Classes_e_metodos_selados\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "4-Classes_e_metodos_selados\\Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\4-Classes_e_metodos_selados\\4-Classes_e_metodos_selados\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "4-Classes_e_metodos_selados\\Entities\\BusinessAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:51:03.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\4-Classes_e_metodos_selados\\4-Classes_e_metodos_selados\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "4-Classes_e_metodos_selados\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\4-Classes_e_metodos_selados\\4-Classes_e_metodos_selados\\Entities\\Account.cs",
+              "RelativeToolTip": "4-Classes_e_metodos_selados\\Entities\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:50:39.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\4-Classes_e_metodos_selados\\4-Classes_e_metodos_selados\\Program.cs",
+              "RelativeDocumentMoniker": "4-Classes_e_metodos_selados\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\4-Classes_e_metodos_selados\\4-Classes_e_metodos_selados\\Program.cs",
+              "RelativeToolTip": "4-Classes_e_metodos_selados\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:41:34.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
