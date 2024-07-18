@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2-UpcastingDowncasting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af389fed959e264c86f07579518f57101b80ae21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c75990f4b0f95fb2166f11f1d9aef2b61fc5969f")]
 [assembly: System.Reflection.AssemblyProductAttribute("2-UpcastingDowncasting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2-UpcastingDowncasting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

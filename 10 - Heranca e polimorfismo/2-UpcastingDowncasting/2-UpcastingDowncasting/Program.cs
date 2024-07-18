@@ -13,9 +13,26 @@ namespace Treino{
 
             // DOWNCASTING
 
-            BusinessAccount acc4 = (BusinessAccount)acc2; // Operação de fazer um downcasting, assim permite utilizar variaveis que só são permitidas 
+            BusinessAccount acc4 = (BusinessAccount)acc2; // Operação de fazer um downcasting, assim permite utilizar variaveis que só são permitidas. Criei um objeto acc4 que recebe todas as caracteristicas da subclasse 
             acc4.Loan(100.0);
-            //acc2.Loan(100.0);
+            //acc2.Loan(100.0); // Retorna um erro porque só ira funcionar se eu fizer um downcasting, pois é uma variavel exclusiva da sub classe
+
+            //BusinessAccount acc5 = (BusinessAccount)acc3; // Não ira funcionar porque o acc3 é savingsAccount
+
+            if (acc3 is BusinessAccount){
+                
+                BusinessAccount acc5 = (BusinessAccount)acc3;
+                // BusinessAccount acc5 = acc3 as BusinessAccount; // uma outra forma de escrever 
+                acc5.Loan(200.0);
+                Console.WriteLine("Loan!");
+
+            } if (acc3 is SavingsAccount){ 
+                
+                SavingsAccount acc5 = (SavingsAccount)acc3;
+                acc5.UpdateBalance();
+                Console.WriteLine("Update!");
+
+            }
 
         }
     }
