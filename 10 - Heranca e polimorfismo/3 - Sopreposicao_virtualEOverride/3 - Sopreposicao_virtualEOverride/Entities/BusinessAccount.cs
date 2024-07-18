@@ -20,5 +20,10 @@ namespace _3___Sopreposicao_virtualEOverride.Entities{
             }
         }
 
+        public override void Withdraw(double amount){
+            base.Withdraw(amount); // usando base a implementação dentro da superclasse com o virtual é chamada, realizando a operação dentro da superclasse
+            Balance -= 2.0; // após descontar os 5 reais dentro da super classe com a chamada da base, é discontado esses 2 reais desse comando dentro da função da subclasse
+        }
+
     }
 }

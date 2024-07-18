@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3 - Sopreposicao_virtualEOverride")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbb3f966fa4c19d604965f21c6531a6592d23099")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fecdaddef023042cb16ee0af9017b9b0738cd11")]
 [assembly: System.Reflection.AssemblyProductAttribute("3 - Sopreposicao_virtualEOverride")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3 - Sopreposicao_virtualEOverride")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

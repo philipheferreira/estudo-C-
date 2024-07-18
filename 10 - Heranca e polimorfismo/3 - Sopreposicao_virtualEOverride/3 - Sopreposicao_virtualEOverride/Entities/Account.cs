@@ -27,5 +27,9 @@ namespace _3___Sopreposicao_virtualEOverride.Entities{
             Balance += value;
         }
 
+        public virtual void Withdraw(double amount){ // utilizando o comando virtual, que tem o objetivo de criar um metodo que pode ser sobrescrevido por uma sub classe utilizando o override
+            Balance -= amount + 5.0; // comandos dentro da função
+        }
+
     }
 }

@@ -18,5 +18,8 @@ namespace _3___Sopreposicao_virtualEOverride.Entities{
             Balance += Balance * InterestRate;
         }
 
+        public override void Withdraw(double amount){ // override substitui os comandos dentro da função da superclasse
+            Balance -= amount;  
+        }
     }
 }
