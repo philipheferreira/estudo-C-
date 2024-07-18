@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\2-UpcastingDowncasting\\2-UpcastingDowncasting\\2-UpcastingDowncasting.csproj": {}
+    "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\3 - Sopreposicao_virtualEOverride\\3 - Sopreposicao_virtualEOverride\\3 - Sopreposicao_virtualEOverride.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\2-UpcastingDowncasting\\2-UpcastingDowncasting\\2-UpcastingDowncasting.csproj": {
+    "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\3 - Sopreposicao_virtualEOverride\\3 - Sopreposicao_virtualEOverride\\3 - Sopreposicao_virtualEOverride.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\2-UpcastingDowncasting\\2-UpcastingDowncasting\\2-UpcastingDowncasting.csproj",
-        "projectName": "2-UpcastingDowncasting",
-        "projectPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\2-UpcastingDowncasting\\2-UpcastingDowncasting\\2-UpcastingDowncasting.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\3 - Sopreposicao_virtualEOverride\\3 - Sopreposicao_virtualEOverride\\3 - Sopreposicao_virtualEOverride.csproj",
+        "projectName": "3 - Sopreposicao_virtualEOverride",
+        "projectPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\3 - Sopreposicao_virtualEOverride\\3 - Sopreposicao_virtualEOverride\\3 - Sopreposicao_virtualEOverride.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\2-UpcastingDowncasting\\2-UpcastingDowncasting\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\3 - Sopreposicao_virtualEOverride\\3 - Sopreposicao_virtualEOverride\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
