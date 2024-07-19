@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace _4_Classes_e_metodos_selados.Entities{
-    class SavingsAccount : Account{
+    sealed class SavingsAccount : Account{ // O comando sealed na frente significa que não se pode criar de nenhuma forma subclasses com a SavingsAccount como base, caso seja feito retornara erro
         public double InterestRate{ get; set; }
 
         public SavingsAccount(){}
@@ -17,5 +17,6 @@ namespace _4_Classes_e_metodos_selados.Entities{
         public void UpdateBalance(){
             Balance += Balance * InterestRate;
         }
+
     }
 }

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("4-Classes_e_metodos_selados")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("5 - Polimorfismo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34d172f7454def72492d68cb20378f9ae93c402a")]
-[assembly: System.Reflection.AssemblyProductAttribute("4-Classes_e_metodos_selados")]
-[assembly: System.Reflection.AssemblyTitleAttribute("4-Classes_e_metodos_selados")]
+[assembly: System.Reflection.AssemblyProductAttribute("5 - Polimorfismo")]
+[assembly: System.Reflection.AssemblyTitleAttribute("5 - Polimorfismo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

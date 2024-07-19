@@ -20,5 +20,8 @@ namespace _4_Classes_e_metodos_selados.Entities{
             }
         }
 
+        public sealed override string ToString(){ // QUalquer subclasse que use essa classe como base não ira funcionar
+            return "Valor do numero: " + Number + ". Valor do balanço: " + Balance + ". O valor do holder é: " + Holder;
+        }
     }
 }
