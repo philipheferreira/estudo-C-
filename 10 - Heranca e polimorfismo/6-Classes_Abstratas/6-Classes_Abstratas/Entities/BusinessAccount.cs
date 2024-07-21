@@ -11,13 +11,19 @@ namespace _6_Classes_Abstratas.Entities{
 
         public BusinessAccount() { }
 
-        public BusinessAccount(int numero, string holder, double  balanco, double loanLimit) : base (numero, holder, balanco){
+        public BusinessAccount(int numero, string holder, double  balance, double loanLimit) : base (numero, holder, balance){
             LoanLimit = loanLimit;
         }
-        public void Emprestimo(double valor){
-            if (valor < LoanLimit){
-                Balanco = valor;
+        public void Loan(double value){
+            if (value < LoanLimit){
+                Balance = value;
             }
         }
+
+        public override void Withdraw(double amount){
+            base.Withdraw(amount);
+            Balance -= 2.0;
+        }
+
     }
 }

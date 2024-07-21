@@ -8,16 +8,16 @@ namespace _6_Classes_Abstratas.Entities{
     class SavingsAccount : Account{
         public double InterestRate {  get; set; }
         public SavingsAccount(){ }
-        public SavingsAccount(int numero, string holder, double balanco, double interestRate) : base(numero, holder, balanco){
+        public SavingsAccount(int numero, string holder, double balance, double interestRate) : base(numero, holder, balance){
             InterestRate = interestRate;
         }
 
         public void UpdateBalance(){
-            Balanco += Balanco * InterestRate;
+            Balance += Balance * InterestRate;
         }
 
-        public void Withdraw(double amount){
-            Balanco -= amount;
+        public override void Withdraw(double amount){
+            Balance -= amount;
         }
     }
 }
