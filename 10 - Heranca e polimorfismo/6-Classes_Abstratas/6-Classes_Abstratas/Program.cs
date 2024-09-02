@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization; // serve para poder utilizar como lista
 
+
 namespace Treino{
     class Programa{
         static void Main(string[] args){

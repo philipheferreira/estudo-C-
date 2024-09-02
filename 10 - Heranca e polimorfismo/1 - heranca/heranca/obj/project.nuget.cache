@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pOXyssrn6nlDQypKOn/5vi3LQ3hZ+bU9zbnRNucbxefHo5DWZJStGUVeksYbrgym6sBCPae4MpzwNBMCA4FKLA==",
+  "dgSpecHash": "+hXy3/uvvdG4OfbTZE1jsAsEX5hwySLpSaPJpA9dhnDzsHHIN0hUcKiB3lOIw3I6KOirKkX2Fju2lIpJ2FN1KQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sala\\Documents\\programação\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\heranca.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\sala\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\sala\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\sala\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\sala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\heranca.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
