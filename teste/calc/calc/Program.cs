@@ -21,7 +21,7 @@ namespace calc{
                     calculadora.SetValor2(float.Parse(Console.ReadLine()));
 
 
-                    calculadora.Soma(calculadora.Valor1, calculadora.Valor2);
+                    calculadora.Soma(calculadora.GetValor1(), calculadora.GetValor2());
 
                 } else
 
@@ -33,7 +33,7 @@ namespace calc{
                     Console.WriteLine("Digite o valor da segunda variavel: ");
                     calculadora.SetValor2(float.Parse(Console.ReadLine()));
 
-                    calculadora.Sub(calculadora.Valor1, calculadora.Valor2);
+                    calculadora.Sub(calculadora.GetValor1(), calculadora.GetValor2());
                 }
                 else
                 if (menu == 3) {
@@ -45,7 +45,7 @@ namespace calc{
                     Console.WriteLine("Digite o valor da segunda variavel: ");
                     calculadora.SetValor2(float.Parse(Console.ReadLine()));
 
-                    calculadora.Div(calculadora.Valor1, calculadora.Valor2);
+                    calculadora.Div(calculadora.GetValor1(), calculadora.GetValor2());
                 }
                 else
                 if (menu == 4) {
@@ -56,7 +56,7 @@ namespace calc{
                     Console.WriteLine("Digite o valor da segunda variavel: ");
                     calculadora.SetValor2(float.Parse(Console.ReadLine()));
 
-                    calculadora.Mult(calculadora.Valor1, calculadora.Valor2);
+                    calculadora.Mult(calculadora.GetValor1(), calculadora.GetValor2());
 
                 }
                 else {
