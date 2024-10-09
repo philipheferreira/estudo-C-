@@ -3,7 +3,6 @@
 namespace calc{
     internal class Program{
         static void Main(string[] args){
-            float valor1, valor2;
             int menu;
 
             Operacoes calculadora = new Operacoes();
@@ -16,10 +15,10 @@ namespace calc{
 
                 if (menu == 1) {
                     Console.WriteLine("Digite o valor da primeira variavel: ");
-                    calculadora.Valor1 = float.Parse(Console.ReadLine());
+                    calculadora.SetValor1(float.Parse(Console.ReadLine()));
 
                     Console.WriteLine("Digite o valor da segunda variavel: ");
-                    calculadora.Valor2 = float.Parse(Console.ReadLine());
+                    calculadora.SetValor2(float.Parse(Console.ReadLine()));
 
 
                     calculadora.Soma(calculadora.Valor1, calculadora.Valor2);
@@ -29,10 +28,10 @@ namespace calc{
                 if (menu == 2) {
 
                     Console.WriteLine("Digite o valor da primeira variavel: ");
-                    calculadora.Valor1 = float.Parse(Console.ReadLine());
+                    calculadora.SetValor1(float.Parse(Console.ReadLine()));
 
                     Console.WriteLine("Digite o valor da segunda variavel: ");
-                    calculadora.Valor2 = float.Parse(Console.ReadLine());
+                    calculadora.SetValor2(float.Parse(Console.ReadLine()));
 
                     calculadora.Sub(calculadora.Valor1, calculadora.Valor2);
                 }
@@ -41,10 +40,10 @@ namespace calc{
 
 
                     Console.WriteLine("Digite o valor da primeira variavel: ");
-                    calculadora.Valor1 = float.Parse(Console.ReadLine());
+                    calculadora.SetValor1(float.Parse(Console.ReadLine()));
 
                     Console.WriteLine("Digite o valor da segunda variavel: ");
-                    calculadora.Valor2 = float.Parse(Console.ReadLine());
+                    calculadora.SetValor2(float.Parse(Console.ReadLine()));
 
                     calculadora.Div(calculadora.Valor1, calculadora.Valor2);
                 }
@@ -52,10 +51,10 @@ namespace calc{
                 if (menu == 4) {
 
                     Console.WriteLine("Digite o valor da primeira variavel: ");
-                    calculadora.Valor1 = float.Parse(Console.ReadLine());
+                    calculadora.SetValor1(float.Parse(Console.ReadLine()));
 
                     Console.WriteLine("Digite o valor da segunda variavel: ");
-                    calculadora.Valor2 = float.Parse(Console.ReadLine());
+                    calculadora.SetValor2(float.Parse(Console.ReadLine()));
 
                     calculadora.Mult(calculadora.Valor1, calculadora.Valor2);
 

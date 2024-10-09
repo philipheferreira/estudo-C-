@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\Cursos\\estudo-C-\\teste\\calc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16367199-BAA7-45FF-BF8C-F25527BE9B4D}|calc\\calc.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\cursos\\estudo-c-\\teste\\calc\\calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16367199-BAA7-45FF-BF8C-F25527BE9B4D}|calc\\calc.csproj|solutionrelative:calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16367199-BAA7-45FF-BF8C-F25527BE9B4D}|calc\\calc.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\cursos\\estudo-c-\\teste\\calc\\calc\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16367199-BAA7-45FF-BF8C-F25527BE9B4D}|calc\\calc.csproj|solutionrelative:calc\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16367199-BAA7-45FF-BF8C-F25527BE9B4D}|calc\\calc.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\cursos\\estudo-c-\\teste\\calc\\calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16367199-BAA7-45FF-BF8C-F25527BE9B4D}|calc\\calc.csproj|solutionrelative:calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Operacoes.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\Cursos\\estudo-C-\\teste\\calc\\calc\\Operacoes.cs",
               "RelativeDocumentMoniker": "calc\\Operacoes.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\Cursos\\estudo-C-\\teste\\calc\\calc\\Operacoes.cs",
               "RelativeToolTip": "calc\\Operacoes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T19:45:44.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\Cursos\\estudo-C-\\teste\\calc\\calc\\Program.cs",
               "RelativeDocumentMoniker": "calc\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\Cursos\\estudo-C-\\teste\\calc\\calc\\Program.cs",
               "RelativeToolTip": "calc\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwDYAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T19:44:38.753Z",
               "EditorCaption": ""
