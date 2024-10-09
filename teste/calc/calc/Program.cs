@@ -4,8 +4,10 @@ namespace calc{
     internal class Program{
         static void Main(string[] args){
             float valor1, valor2;
-            float soma, sub, div, mult;
+            float sub, div, mult;
             int menu;
+
+            Operacoes calculadora = new Operacoes();
 
             do{
 
@@ -20,9 +22,9 @@ namespace calc{
                     Console.WriteLine("Digite o valor da segunda variavel: ");
                     valor2 = float.Parse(Console.ReadLine());
 
-                    soma = valor1 + valor2;
 
-                    Console.WriteLine("A soma das duas variaveis é: " + soma);
+                    calculadora.Soma(valor1, valor2);
+
                 } else
 
                 if (menu == 2) {
