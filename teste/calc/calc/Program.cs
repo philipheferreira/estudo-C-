@@ -35,9 +35,7 @@ namespace calc{
                     Console.WriteLine("Digite o valor da segunda variavel: ");
                     valor2 = float.Parse(Console.ReadLine());
 
-                    sub = valor1 - valor2;
-
-                    Console.WriteLine("A subtração das duas variaveis é: " + sub);
+                    calculadora.Sub(valor1, valor2);
                 }
                 else
                 if (menu == 3) {
@@ -49,9 +47,7 @@ namespace calc{
                     Console.WriteLine("Digite o valor da segunda variavel: ");
                     valor2 = float.Parse(Console.ReadLine());
 
-                    div = valor1 / valor2;
-
-                    Console.WriteLine("A divisão das duas variaveis é: " + div);
+                    calculadora.Div(valor1, valor2);
                 }
                 else
                 if (menu == 4) {
@@ -62,9 +58,7 @@ namespace calc{
                     Console.WriteLine("Digite o valor da segunda variavel: ");
                     valor2 = float.Parse(Console.ReadLine());
 
-                    mult = valor1 * valor2;
-
-                    Console.WriteLine("A multiplicação das duas variaveis é: " + mult);
+                    calculadora.Mult(valor1, valor2);
 
                 }
                 else {
