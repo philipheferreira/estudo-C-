@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace calculadora{
     internal class Operacoes{
-        public float valor1, valor2;
+        public float Valor1, Valor2;
+
 
         public void Soma(float valor1, float valor2){
             float soma = valor1 + valor2;

@@ -4,7 +4,6 @@ namespace calc{
     internal class Program{
         static void Main(string[] args){
             float valor1, valor2;
-            float sub, div, mult;
             int menu;
 
             Operacoes calculadora = new Operacoes();
@@ -17,48 +16,48 @@ namespace calc{
 
                 if (menu == 1) {
                     Console.WriteLine("Digite o valor da primeira variavel: ");
-                    valor1 = float.Parse(Console.ReadLine());
+                    calculadora.Valor1 = float.Parse(Console.ReadLine());
 
                     Console.WriteLine("Digite o valor da segunda variavel: ");
-                    valor2 = float.Parse(Console.ReadLine());
+                    calculadora.Valor2 = float.Parse(Console.ReadLine());
 
 
-                    calculadora.Soma(valor1, valor2);
+                    calculadora.Soma(calculadora.Valor1, calculadora.Valor2);
 
                 } else
 
                 if (menu == 2) {
 
                     Console.WriteLine("Digite o valor da primeira variavel: ");
-                    valor1 = float.Parse(Console.ReadLine());
+                    calculadora.Valor1 = float.Parse(Console.ReadLine());
 
                     Console.WriteLine("Digite o valor da segunda variavel: ");
-                    valor2 = float.Parse(Console.ReadLine());
+                    calculadora.Valor2 = float.Parse(Console.ReadLine());
 
-                    calculadora.Sub(valor1, valor2);
+                    calculadora.Sub(calculadora.Valor1, calculadora.Valor2);
                 }
                 else
                 if (menu == 3) {
 
 
                     Console.WriteLine("Digite o valor da primeira variavel: ");
-                    valor1 = float.Parse(Console.ReadLine());
+                    calculadora.Valor1 = float.Parse(Console.ReadLine());
 
                     Console.WriteLine("Digite o valor da segunda variavel: ");
-                    valor2 = float.Parse(Console.ReadLine());
+                    calculadora.Valor2 = float.Parse(Console.ReadLine());
 
-                    calculadora.Div(valor1, valor2);
+                    calculadora.Div(calculadora.Valor1, calculadora.Valor2);
                 }
                 else
                 if (menu == 4) {
 
                     Console.WriteLine("Digite o valor da primeira variavel: ");
-                    valor1 = float.Parse(Console.ReadLine());
+                    calculadora.Valor1 = float.Parse(Console.ReadLine());
 
                     Console.WriteLine("Digite o valor da segunda variavel: ");
-                    valor2 = float.Parse(Console.ReadLine());
+                    calculadora.Valor2 = float.Parse(Console.ReadLine());
 
-                    calculadora.Mult(valor1, valor2);
+                    calculadora.Mult(calculadora.Valor1, calculadora.Valor2);
 
                 }
                 else {
