@@ -6,9 +6,22 @@ namespace CalculadoraSimples{
 
             int menu;
 
-            float numero1, numero2;
+            float numero1 = 20, numero2 = 40;
+
+            float soma, sub, mult, div;
+
+            Console.WriteLine("");
+
+            Console.WriteLine("");
 
 
+            soma = numero1 + numero2;
+
+            sub = numero1 - numero2;
+
+            mult = numero1 * numero2;
+
+            div = numero1 / numero2;
 
 
             Console.WriteLine("Hello, World!");
