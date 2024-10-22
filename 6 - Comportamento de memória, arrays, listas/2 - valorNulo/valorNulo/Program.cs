@@ -1,8 +1,11 @@
 ﻿using System;
 
-namespace Course{
-    class Program{
-        static void Main(string[] args){
+namespace Course
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
 
             double? x = null;
             double? y = 10.0;
