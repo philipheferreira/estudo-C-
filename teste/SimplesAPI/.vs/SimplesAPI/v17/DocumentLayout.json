@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{8A76C8DC-B516-47B6-A4F1-A5B8A4657598}|SimplesAPI\\SimplesAPI.csproj|solutionrelative:simplesapi\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A76C8DC-B516-47B6-A4F1-A5B8A4657598}|SimplesAPI\\SimplesAPI.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\cursos\\estudo-c-\\teste\\simplesapi\\simplesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A76C8DC-B516-47B6-A4F1-A5B8A4657598}|SimplesAPI\\SimplesAPI.csproj|solutionrelative:simplesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A76C8DC-B516-47B6-A4F1-A5B8A4657598}|SimplesAPI\\SimplesAPI.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\cursos\\estudo-c-\\teste\\simplesapi\\simplesapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A76C8DC-B516-47B6-A4F1-A5B8A4657598}|SimplesAPI\\SimplesAPI.csproj|solutionrelative:simplesapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A76C8DC-B516-47B6-A4F1-A5B8A4657598}|SimplesAPI\\SimplesAPI.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\cursos\\estudo-c-\\teste\\simplesapi\\simplesapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A76C8DC-B516-47B6-A4F1-A5B8A4657598}|SimplesAPI\\SimplesAPI.csproj|solutionrelative:simplesapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A76C8DC-B516-47B6-A4F1-A5B8A4657598}|SimplesAPI\\SimplesAPI.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\cursos\\estudo-c-\\teste\\simplesapi\\simplesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A76C8DC-B516-47B6-A4F1-A5B8A4657598}|SimplesAPI\\SimplesAPI.csproj|solutionrelative:simplesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,29 +30,27 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\Cursos\\estudo-C-\\teste\\SimplesAPI\\SimplesAPI\\Program.cs",
               "RelativeDocumentMoniker": "SimplesAPI\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\Cursos\\estudo-C-\\teste\\SimplesAPI\\SimplesAPI\\Program.cs",
               "RelativeToolTip": "SimplesAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T18:24:27.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T18:24:27.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProdutosController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\Cursos\\estudo-C-\\teste\\SimplesAPI\\SimplesAPI\\Controllers\\ProdutosController.cs",
               "RelativeDocumentMoniker": "SimplesAPI\\Controllers\\ProdutosController.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\Cursos\\estudo-C-\\teste\\SimplesAPI\\SimplesAPI\\Controllers\\ProdutosController.cs",
               "RelativeToolTip": "SimplesAPI\\Controllers\\ProdutosController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwDkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T18:23:08.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T18:23:08.841Z"
             },
             {
               "$type": "Document",
@@ -62,14 +60,14 @@
               "RelativeDocumentMoniker": "SimplesAPI\\Repositories\\ProdutoRepository.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\Cursos\\estudo-C-\\teste\\SimplesAPI\\SimplesAPI\\Repositories\\ProdutoRepository.cs",
               "RelativeToolTip": "SimplesAPI\\Repositories\\ProdutoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T18:22:27.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\Cursos\\estudo-C-\\teste\\SimplesAPI\\SimplesAPI\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "SimplesAPI\\Models\\Produto.cs",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "SimplesAPI\\Models\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T18:18:47.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T18:18:47.068Z"
             }
           ]
         }

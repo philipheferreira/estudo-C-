@@ -13,7 +13,10 @@ namespace SimplesAPI.Repositories
             {
                 new Produto { Id = 1, Nome = "Produto A", Preco = 10.00m },
                 new Produto { Id = 2, Nome = "Produto B", Preco = 20.00m },
-                new Produto { Id = 3, Nome = "Produto C", Preco = 30.00m }
+                new Produto { Id = 3, Nome = "Produto C", Preco = 30.00m },
+                new Produto { Id = 4, Nome = "Produto D", Preco = 40.00m },
+                new Produto { Id = 5, Nome = "Produto E", Preco = 50.00m },
+                new Produto { Id = 6, Nome = "Produto F", Preco = 60.00m }
             };
         }
 
