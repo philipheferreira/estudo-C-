@@ -23,19 +23,19 @@ namespace Treino{
         static void Main(string[] args)
         {
 
-            int n = int.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine()); // Tamanho do vetor
 
             double[] vetor = new double[n];
 
-            for (int i = 0; i< n; i++)
+            for (int i = 0; i< n; i++) // percorre todo o vetor
             {
-                vetor[i] = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                vetor[i] = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture); // define o valor armazenado em cada posição do vetor
             }
 
             double sum = 0.0;
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < n; i++) // percorre todo o vetor
             {
-                sum += vetor[i];
+                sum += vetor[i]; // vai recebendo e somando cada valor do vetor dentro da variavel
             }
 
             double avg = sum / n;
