@@ -30,7 +30,19 @@ namespace _11_Lista
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            List<string> list = new List<string>();
+
+            List<string> list2 = new List<string> { "Maria", "Alex" };
+
+            list.Add("Joãozinho");
+            list.Add("Fernandinha");
+            list.Add("HelloKit");
+            list.Add("Anninha");
+
+            foreach (string s in list)
+            {
+                Console.WriteLine(s);
+            }
         }
     }
 }
