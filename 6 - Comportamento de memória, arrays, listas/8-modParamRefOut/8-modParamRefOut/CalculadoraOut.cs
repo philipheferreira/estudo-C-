@@ -1,8 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+/*
+
+    Modificador Out: O modificador out é similar ao ref(faz o parâmetro ser 
+    uma referência para a variável original), mas não exige que a variável original 
+    seja iniciada.
+
+*/
 
 namespace _8_modParamRefOut
 {

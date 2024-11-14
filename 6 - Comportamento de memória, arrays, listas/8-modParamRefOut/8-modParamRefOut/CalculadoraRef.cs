@@ -1,4 +1,11 @@
-﻿using System;
+﻿
+/*
+
+Modificador Ref: Suponha que se queira uma calculadora com uma operação para triplicar o valor de um número passado parâmetro.
+
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
