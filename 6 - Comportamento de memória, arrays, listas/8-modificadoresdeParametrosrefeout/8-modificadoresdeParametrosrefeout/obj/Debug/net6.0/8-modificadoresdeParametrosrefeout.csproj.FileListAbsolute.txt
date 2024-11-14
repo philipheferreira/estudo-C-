@@ -1,0 +1,1 @@
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\8-modificadoresdeParametrosrefeout\8-modificadoresdeParametrosrefeout\obj\Debug\net6.0\8-modificadoresdeParametrosrefeout.GeneratedMSBuildEditorConfig.editorconfig
