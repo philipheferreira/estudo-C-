@@ -20,6 +20,13 @@ Listas
     - Acesso Sequencial aos elementos
 
 
+* Inserir elemento na lista: Add, Insert;
+* Tamanho da lista: Count;
+* Encontrar primeiro ou último elementos da lista que satisfaça um predicado: list.Find, list.FindLast;
+* Encontrar primeira ou última
+* Filtrar a lista com base em um predicado: list.FindAll;
+* Remover elementos da lista: Remove, RemoveAll, RemoveAt, RemoveRange
+
 */
 
 
