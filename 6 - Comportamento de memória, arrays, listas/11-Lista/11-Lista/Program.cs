@@ -108,12 +108,45 @@ namespace _11_Lista
             Console.WriteLine();
 
             //FIM DA FUNÇÃO FINDLASTINDEX
-        }
 
-        static bool EncontraNomeComecaA(string s)
-        {
-            return s[0] == 'A';
-        }
+            // Filtrar uma lista é criar uma nova lista apenas com os elementos que satisfaçam o predicado
 
+            //INICIO DO METODO FINDALL
+
+            List<string> list3 = list.FindAll(x => x.Length <= 5);// FindAll pega todos os nomes que são menores ou iguais ao tamanho 5 e coloca em uma nova lista
+
+            foreach (string str in list3)
+            {
+                Console.WriteLine(str);
+            }
+
+            //FIM DO METODO FINDALL
+
+
+            //INICIO DO METODO REMOVE
+
+            list.Remove("Farias");
+            Console.WriteLine("-------------");
+            foreach (string str in list)
+            {
+                Console.WriteLine($"{str}");
+
+                //FIM DO METODO REMOVE
+
+            }
+
+            list.RemoveAll(x => x[0] == 'A');
+            Console.WriteLine("----------------------");
+            foreach (string str in list)
+            {
+                Console.WriteLine(str);
+            }
+
+            static bool EncontraNomeComecaA(string s)
+            {
+                return s[0] == 'A';
+            }
+
+        }
     }
-}
+};
