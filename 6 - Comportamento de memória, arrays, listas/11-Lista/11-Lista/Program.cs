@@ -126,16 +126,34 @@ namespace _11_Lista
             //INICIO DO METODO REMOVE
 
             list.Remove("Farias");
-            Console.WriteLine("-------------");
+            Console.WriteLine("-------------------");
             foreach (string str in list)
             {
-                Console.WriteLine($"{str}");
+                Console.WriteLine(str);
 
                 //FIM DO METODO REMOVE
 
             }
 
-            list.RemoveAll(x => x[0] == 'A');
+
+            list.RemoveAt(0);
+            Console.WriteLine("------------------");
+            foreach(string str in list)
+            {
+                Console.WriteLine(str);
+            }
+
+
+            list.RemoveRange(1,2);
+            Console.WriteLine("-----------------");
+            foreach (string str in list)
+            {
+                Console.WriteLine(str);
+            }
+
+
+
+            list.RemoveAll(x => x[0] == 'A'); // RemoveAll deleta da lista todos os valores de acordo com o predicativo
             Console.WriteLine("----------------------");
             foreach (string str in list)
             {
