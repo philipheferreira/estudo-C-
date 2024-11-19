@@ -88,11 +88,26 @@ namespace _11_Lista
 
             //INICIO DA FUNÇÃO FINDINDEX
 
+            int primeiraPosicaoNomeA = list.FindIndex(EncontraNomeComecaA); //FindIndex encotra a posição do primeiro elemento da lista que está de acordo com o predicado
 
+            Console.WriteLine();
+
+            int posicaoNomeF = list.FindIndex(x => x[0] == 'F');
+
+            Console.WriteLine();
 
             //FIM DA FUNÇÃO FINDINDEX
 
 
+            //INICIO DA FUNÇÃO FINDLASTINDEX
+
+            int ultimaPosicaoNomeA = list.FindLastIndex(EncontraNomeComecaA);//FindLastIndex encotra a posição do último elemento da lista que está de acordo com o predicado
+            Console.WriteLine();
+
+            int ultimaPosicaoNomeF = list.FindLastIndex(x => x[0] == 'F');
+            Console.WriteLine();
+
+            //FIM DA FUNÇÃO FINDLASTINDEX
         }
 
         static bool EncontraNomeComecaA(string s)
